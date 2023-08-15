@@ -3,7 +3,7 @@
 First Phase:
 This project implements a secure user authentication system using Flask, PostgreSQL, bcrypt, and regular expressions. The system ensures that user passwords are stored securely and follows strong complexity requirements. 
 
-The aim to create a couple of endpoints centered towards user authentication requirements. 
+The aim is to create a couple of endpoints centered towards user authentication requirements. 
 
 ##### POST /createuser  
 This creates a new user and returns a uuid

@@ -21,7 +21,8 @@ Content-Type: application/json
 
 ###### Success Response  
 * Status code: 201
-* Content: `{ "uuid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" }`
+* Content: `{ "user_id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" }`
+user_id gives out a uuid
 
 ##### POST /login  
 Checks if the user is already registered and then logins him in 

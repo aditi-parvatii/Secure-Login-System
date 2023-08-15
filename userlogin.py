@@ -98,9 +98,9 @@ def login():
         else:
             return jsonify({"error": "Login unsuccessful, incorrect name or password"}), 401
     else:
-        return jsonify({"error": "Login unsuccessful, incorrect name or password"}), 401
+        return jsonify({"error": "This username doesnt exist please register"}), 401
 
     cursor.close()
-    
+
 if __name__ == "__main__":
     app.run(debug=True)

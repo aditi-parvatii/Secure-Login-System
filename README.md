@@ -15,7 +15,7 @@ Content-Type: application/json
 ```  
 {  
      "username": "xusername",
-    "password": "Bla@blavv23"
+    "password": "Xxxxxxxx@1"
 }  
 ```
 
@@ -33,7 +33,7 @@ Content-Type: application/json
 ```  
 {  
      "username": "xusername",
-    "password": "Bla@blavv23"
+    "password": "Xxxxxxxx@1"
 }  
 ```
 
